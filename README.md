@@ -30,7 +30,7 @@ a) Print the collection
 b) Print William's nickname
 
 ### Problem 4:
-Create an array of 5 numbers. <strong>Using a loop</strong>, print the elements in the array reverse order.
+Create an array of 5 numbers. <strong>Using a loop</strong>, print the elements in the array reverse order. <strong>Do not use a function</strong>
 
 ### Problem 5:
 Create a function that will have a hard coded array then ask the user for a number. Use the userInput to state how many numbers in an array are higher, lower, or equal to it.
