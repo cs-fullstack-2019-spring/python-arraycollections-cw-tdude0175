@@ -1,21 +1,24 @@
 # python-arrayCollections-cw
 
 ### Problem 1:
-Create a function with the variable below
+Create a function with the variable below. After you create the variable do the instructions below that.
 ```
 arrayForProblem2 = ["Kenn", "Kevin", "Erin", "Meka"]
 ```
-a) Print the 2nd index of the numberList.
+a) Print the 3rd element of the numberList.
+
 b) Print the size of the array
-c) Delete the third index.
-d) Print the 2nd index again.
+
+c) Delete the second element.
+
+d) Print the 3rd element.
 
 ### Problem 2:
 ##### We will keep having this problem until EVERYONE gets it right without help
 Create a function that has a loop that quits with ‘q’. If the user doesn't enter 'q', ask them to input another string.
 
 ### Problem 3:
-Create a function that contains a collection of information for the following:
+Create a function that contains a collection of information for the following. After you create the collection do the instructions below that.
 ```
 Jonathan/John
 Michael/Mike
@@ -23,7 +26,8 @@ William/Bill
 Robert/Rob
 ```
 a) Print the collection
-b) Print who plays guitar
+
+b) Print William's nickname
 
 ### Problem 4:
 Create an array of 5 numbers. <strong>Using a loop</strong>, print the elements in the array reverse order.
